@@ -1,6 +1,6 @@
 # Test docs
 
-BB
+CC
 
 Install required dependencies:
 
