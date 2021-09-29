@@ -1,0 +1,21 @@
+site_name: Test docs
+site_url: https://www.mkdocs.org/
+site_description: 'A docs test'
+site_author: 'iRobot'
+
+repo_name: 'mhausenblas/mkdocs-template'
+repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+
+docs_dir: docs/
+
+theme:
+  name: 'material'
+
+extra_css:
+  - stylesheets/irobot-palette.css
+
+nav:
+    - Home: index.md
+    - Getting Started:
+      - Test: getting-started/test.md
+      - Other test: getting-started/test2.md
