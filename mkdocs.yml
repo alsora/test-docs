@@ -1,10 +1,7 @@
 site_name: Test docs
-site_url: https://www.mkdocs.org/
 site_description: 'A docs test'
 site_author: 'iRobot'
 
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
 
 docs_dir: docs/
 
