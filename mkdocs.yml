@@ -1,7 +1,7 @@
 site_name: Test docs
 site_description: 'A docs test'
 site_author: 'iRobot'
-site_url: https://www.mkdocs.org/
+#site_url: https://www.mkdocs.org/
 
 repo_name: 'alsora/test-docs'
 repo_url: 'https://github.com/alsora/test-docs'
